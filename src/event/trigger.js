@@ -186,3 +186,6 @@ return jQuery;
 function feature1(){
 	return "feature1";
 }
+function feature2(){
+	return "feature2";
+}
