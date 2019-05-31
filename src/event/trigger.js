@@ -183,3 +183,7 @@ jQuery.fn.extend( {
 
 return jQuery;
 } );
+
+function master(){
+	return "master";
+}
