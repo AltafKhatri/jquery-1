@@ -183,21 +183,3 @@ jQuery.fn.extend( {
 
 return jQuery;
 } );
-function feature1(){
-	return "feature1";
-}
-function feature2(){
-	return "feature2";
-}
-function master1(){
-	return "master1";
-}
-function master2(){
-	return "master2";
-}
-function feature1(){
-	return "feature1";
-}
-function feature2(){
-	return "feature2";
-}
