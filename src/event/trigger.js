@@ -183,3 +183,6 @@ jQuery.fn.extend( {
 
 return jQuery;
 } );
+function feature1(){
+	return "feature1";
+}
