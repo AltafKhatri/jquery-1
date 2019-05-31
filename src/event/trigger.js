@@ -189,3 +189,6 @@ function feature1(){
 function feature2(){
 	return "feature2";
 }
+function master1(){
+	return "master1";
+}
