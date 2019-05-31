@@ -186,6 +186,8 @@ return jQuery;
 function master1(){
 	return "master1";
 }
-function master2(){
+function feature1(){
+	return "feature1";
+}function master2(){
 	return "master2";
 }
