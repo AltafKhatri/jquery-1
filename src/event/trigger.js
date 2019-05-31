@@ -187,3 +187,7 @@ return jQuery;
 function master(){
 	return "master";
 }
+
+function master1(){
+	return "master1";
+}
